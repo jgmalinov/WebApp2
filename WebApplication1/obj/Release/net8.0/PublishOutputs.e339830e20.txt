@@ -1,0 +1,7 @@
+C:\Users\gogot\source\repos\Azure\WebApp\WebApplication1\bin\Release\net8.0\publish\WebApplication1.exe
+C:\Users\gogot\source\repos\Azure\WebApp\WebApplication1\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\gogot\source\repos\Azure\WebApp\WebApplication1\bin\Release\net8.0\publish\appsettings.json
+C:\Users\gogot\source\repos\Azure\WebApp\WebApplication1\bin\Release\net8.0\publish\WebApplication1.dll
+C:\Users\gogot\source\repos\Azure\WebApp\WebApplication1\bin\Release\net8.0\publish\WebApplication1.deps.json
+C:\Users\gogot\source\repos\Azure\WebApp\WebApplication1\bin\Release\net8.0\publish\WebApplication1.runtimeconfig.json
+C:\Users\gogot\source\repos\Azure\WebApp\WebApplication1\bin\Release\net8.0\publish\WebApplication1.pdb
